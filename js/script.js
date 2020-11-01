@@ -19,4 +19,4 @@ for (i = 0; i < 2; i++){
     personalMovieDB.movies[lastFilm] = scoreFilm;
 }
 
-console.log(numberOfFilms);
+console.log(personalMovieDB);
